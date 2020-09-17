@@ -1,0 +1,33 @@
+.container {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(236, 184, 154);
+  padding: 0 10px;
+}
+
+.nice-list li {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.nice-list {
+  display: inline-block;
+  text-align: left;
+}
+
+.border {
+  padding: 10px;
+  text-align: left;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.main {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100%;
+}
